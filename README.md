@@ -1,8 +1,26 @@
-# Bitcoin-Price-Predictor
-Developed a web application that predicts Bitcoin prices using historical data and basic machine learning techniques
-and real world data.
-• Integrated a Python backend with a prediction model to forecast future Bitcoin price trends based on past
-patterns.
-• Visualized price data and predictions with interactive charts and graphs, providing users with clear insights.
-• Used React for the frontend and Flask to serve prediction APIs, with data stored in local storage for user session
-persistence
+🪙 Bitcoin Price Predictor
+This project uses machine learning to predict the future price of Bitcoin based on historical data. It provides insights for traders, investors, and enthusiasts by applying time series analysis and regression models.
+
+📌 Features
+Historical data loading and preprocessing
+
+Data visualization (trends, moving averages)
+
+Machine Learning models (e.g., Linear Regression, LSTM, etc.)
+
+Price prediction plotting
+
+Interactive UI (if applicable using Streamlit or similar)
+
+📊 Technologies Used
+Python
+
+Pandas, NumPy – Data manipulation
+
+Matplotlib, Seaborn – Data visualization
+
+Scikit-learn – ML models
+
+TensorFlow/Keras (optional) – For LSTM or deep learning
+
+Streamlit/Flask (optional) – For web-based interface
