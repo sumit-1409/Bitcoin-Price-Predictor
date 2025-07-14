@@ -10,7 +10,6 @@ Machine Learning models (e.g., Linear Regression, LSTM, etc.)
 
 Price prediction plotting
 
-Interactive UI (if applicable using Streamlit or similar)
 
 📊 Technologies Used
 Python
@@ -21,6 +20,6 @@ Matplotlib, Seaborn – Data visualization
 
 Scikit-learn – ML models
 
-TensorFlow/Keras (optional) – For LSTM or deep learning
+TensorFlow/Keras – For LSTM and deep learning
 
-Streamlit/Flask (optional) – For web-based interface
+Flask  – For web-based interface
